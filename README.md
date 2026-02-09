@@ -1,4 +1,5 @@
 ⭐ Sentiment Analysis System
+
 📍 Project Summary
 
 This project builds an end-to-end Sentiment Analysis System that classifies text into positive, negative, or neutral sentiment using Natural Language Processing (NLP) and Machine Learning techniques.
@@ -58,6 +59,7 @@ Jupyter Notebook
 Pickle (Model Serialization)
 
 🔬 Project Workflow
+
 1️⃣ Data Exploration
 
 Performed Exploratory Data Analysis (EDA)
