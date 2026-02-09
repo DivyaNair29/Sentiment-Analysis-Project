@@ -30,6 +30,7 @@ Data Exploration & Visualization
 
 Flask Application Development
 
+
 🛠️ Tech Stack
 
 Programming Language
@@ -57,6 +58,7 @@ Development Tools
 Jupyter Notebook
 
 Pickle (Model Serialization)
+
 
 🔬 Project Workflow
 
