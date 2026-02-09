@@ -12,6 +12,8 @@ Understanding customer sentiment is crucial for businesses to improve products, 
 
 This project automates sentiment detection from textual data using machine learning models.
 
+
+
 🧠 Key Skills Demonstrated
 
 Natural Language Processing (NLP)
@@ -29,6 +31,8 @@ End-to-End ML Project Deployment
 Data Exploration & Visualization
 
 Flask Application Development
+
+
 
 
 🛠️ Tech Stack
@@ -58,6 +62,8 @@ Development Tools
 Jupyter Notebook
 
 Pickle (Model Serialization)
+
+
 
 
 🔬 Project Workflow
